@@ -1,4 +1,4 @@
-Autism Prediction System using Machine Learning
+#Autism Prediction System using Machine Learning
 📌 Project Overview
 The Autism Prediction System is a Machine Learning–based project developed to predict Autism Spectrum Disorder (ASD) using behavioral and screening questionnaire data.
 This system helps in early detection support by analyzing patterns in user responses through classification algorithms.
